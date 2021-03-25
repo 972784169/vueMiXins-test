@@ -13,7 +13,8 @@ export default {
     created(){
         console.log("hello from self")                    //控制台输出------------->hello from mixins
                                                           //                       hello from self           
-    }
+    },
+   mounted(){},
 }
 
 </script>
